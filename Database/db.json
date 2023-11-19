@@ -1,0 +1,7 @@
+{
+    "products":[
+        {"id":1001,"productName":"Mi 12 Pro","price":40000},
+        {"id":1002,"productName":"Mi 11 Pro","price":35000},
+        {"id":1003,"productName":"Mi 10 Pro","price":30000}
+    ]
+}
